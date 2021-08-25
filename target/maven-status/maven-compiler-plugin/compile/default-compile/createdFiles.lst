@@ -1,0 +1,4 @@
+br\com\alura\servico\AgendamentoEmailServico.class
+br\com\alura\entidade\AgendamentoEmail.class
+br\com\alura\servlet\AgendamentoEmailServlet.class
+br\com\alura\dao\AgendamentoEmailDAO.class
